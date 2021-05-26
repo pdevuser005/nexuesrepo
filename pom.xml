@@ -273,12 +273,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://192.168.50.198:8081/repository/MyNex2/</url>
+            <url>http://nexusserver1.com:8081/repository/MyNex2/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://192.168.50.198:8081/repository/MyNex3/</url>
+            <url>http://nexusserver1.com:8081/repository/MyNex3/</url>
         </snapshotRepository>
     </distributionManagement>
   <licenses>
